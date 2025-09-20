@@ -40,7 +40,8 @@ This project is designed to **automate outreach to potential clients, recruiters
 ---
 
 ## 🧩 Workflow Preview  
-*(Insert screenshot here)*  
+<img width="1664" height="810" alt="image" src="https://github.com/user-attachments/assets/8813dd97-cddb-4061-927d-91d30148a543" />
+
 
 ---
 
